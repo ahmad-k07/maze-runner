@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+exploration.csv
+statistics.txt
+.DS_Store
